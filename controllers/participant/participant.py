@@ -34,6 +34,6 @@ class Wrestler (Robot):
             motion_library.play('Backwards')
 
 
-# create the Robot instance and run main loop
+
 wrestler = Wrestler()
 wrestler.run()
